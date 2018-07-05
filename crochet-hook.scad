@@ -1,6 +1,6 @@
 /* [Overall size] */
 // The diameter of the hook in mm - see http://www.karpstyles.com/crochet/hook-chart.html for US and UK sizes
-diameter = 6;
+diameter = 4;
 d = diameter;
 r = diameter/2;
 length = 150; // [30:300]
